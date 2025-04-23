@@ -1,7 +1,7 @@
 ---
 title: "Primeiro post!"
 description: "Primeiras impressões da disciplina e um primeiro problema"
-pubDate: "26/02/2025"
+pubDate: "2025-04-22"
 heroImage: "/post_img.webp"
 tags: ["tokio"]
 ---
