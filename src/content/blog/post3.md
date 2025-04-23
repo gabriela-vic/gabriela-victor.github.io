@@ -3,9 +3,8 @@ title: "Iniciando o tutorial 1"
 description: "Primeiros problemas..."
 pubDate: "2025-03-12"
 heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
 ---
+Iniciei os tutorias atrasada por ter conseguido o notebook depois.
 
 Achei os tutoriais fáceis de seguir… na teoria. Mas na prática, vários probleminhas inesperados podem aparecer quando rodamos os comandos na máquina. Às vezes é algo da configuração local, outras vezes um erro de digitação — e como são muitos passos, dá pra ficar meio perdida fácil.
 
