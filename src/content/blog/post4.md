@@ -2,7 +2,7 @@
 title: "Tutoriais 2 e 3 + palestra Nelson Lago"
 description: "Tentando ficar em dia"
 pubDate: "2025-03-26"
-heroImage: "/post_img.webp"
+heroImage: "cat.png"
 ---
 
 Faltei na aula do dia 19, então acabei terminando o tutorial 2 e começando o tutorial 3 na aula do dia 26. 
