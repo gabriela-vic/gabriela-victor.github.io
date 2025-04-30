@@ -2,7 +2,7 @@
 title: "Primeira contribuição no Kernel Linux"
 description: "Resolvendo um problema de funções duplicadas"
 pubDate: "2025-04-09"
-heroImage: "/post_img.webp"
+#heroImage: "/post_img.webp"
 ---
 
 Finalmente começamos nossa jornada de contribuições no Kernel Linux! Vamos trabalhar em drivers do subsistema IIO (Industrial I/O).

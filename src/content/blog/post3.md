@@ -2,7 +2,7 @@
 title: "Iniciando o tutorial 1"
 description: "Primeiros problemas..."
 pubDate: "2025-03-12"
-heroImage: "/post_img.webp"
+#heroImage: "/post_img.webp"
 ---
 Iniciei os tutorias atrasada por ter conseguido o notebook depois.
 
