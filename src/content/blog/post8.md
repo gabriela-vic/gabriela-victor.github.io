@@ -1,6 +1,6 @@
 ---
 title: "Feedback da comunidade"
-description: "Seguindo adiante"
+description: "Nosso primeiro contato com o mundo de fora"
 pubDate: "2025-04-27"
 #heroImage: "/post_img.webp"
 ---
