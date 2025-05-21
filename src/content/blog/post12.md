@@ -1,6 +1,6 @@
 ---
-title: "Começando a trabalhar no gnome"
-description: "Alguns probleminhas"
+title: "Uma issue leva a outra..."
+description: "Estudando o código do app Weather, fizemos descobertas interessantes e encontramos novas tarefas a realizar para solucionar a issue que escolhemos."
 pubDate: "2025-05-12"
 #heroImage: "/post_img.webp"
 ---
